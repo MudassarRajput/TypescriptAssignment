@@ -2,12 +2,12 @@
 console.log('Hello World!');
 
 //write a program to find today date 
-console.log('Today Date: 23-March-2024')
+console.log('Today Date: 23-March-2024');
 
 // find the random number from 1 to 100
-let x;
-x = Math.floor(Math.random() * 100)+1;
-console.log(x);
+let h :number;
+h = Math.floor(Math.random() * 100)+1;
+console.log(h);
 
 // write your name with string variable used
 let n:string = " M Mudassar ";
